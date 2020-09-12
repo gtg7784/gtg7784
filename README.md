@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 
 ![gtg7784's github stats](https://github-readme-stats.vercel.app/api?username=gtg7784&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gtg7784)

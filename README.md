@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I am student in Sunrin Internet Highschool in Republic of Korea.
+
+- 🌱 I’m currently learning Machine Learning!
+- 💬 Ask me about EVERYTHING!!
+- 📫 How to reach me: fb.me/gtg7784
+
 
 ![gtg7784's github stats](https://github-readme-stats.vercel.app/api?username=gtg7784&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gtg7784)
+

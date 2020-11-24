@@ -19,8 +19,7 @@ I am student in Sunrin Internet Highschool in Republic of Korea.
 
 - 🌱 I’m currently learning Machine Learning!
 - 💬 Ask me about EVERYTHING!!
-- 📫 How to reach me: fb.me/gtg7784
+- 📫 How to reach me: [Facebook](fb.me/gtg7784)
 
 
 ![gtg7784's github stats](https://github-readme-stats.vercel.app/api?username=gtg7784&show_icons=true)
-

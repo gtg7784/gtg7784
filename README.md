@@ -20,6 +20,7 @@ Currently at **[Startale](https://startale.com)** building [Astar Network](https
 - Deployed bridge contracts handling **millions in TVL** with zero security incidents
 - Distributed SBT to **427K+ addresses** with 60% gas reduction via batch minting
 - Built **[Startale App](https://app.startale.com/create-account-by-invitation?code=VCKJSO65)** — Soneium's Superapp with Account Abstraction, [Uniswap V4](https://app.uniswap.org/), [Kyo Finance](https://kyo.finance), and [USDSC](https://startale.com/en/blog/startale-usd)
+- Built **[Soneium Score](https://portal.soneium.org)** — Score campaign for Soneium ecosystem with DeFi TVL indexing
 - Built **quant trading platform** end-to-end: execution engine, analytics, infrastructure
 
 #### Open Source
@@ -28,6 +29,13 @@ Currently at **[Startale](https://startale.com)** building [Astar Network](https
 - **[evm-kms-signer](https://github.com/gtg7784/evm-kms-signer)** — AWS/GCP KMS Ethereum signer for viem
 - **[solana-kms-signer](https://github.com/gtg7784/solana-kms-signer)** — AWS KMS Solana signer (ED25519)
 - **[chainlink-ccip-erc7802](https://github.com/AstarNetwork/chainlink-ccip-erc7802)** — ERC-7802 + Chainlink CCIP reference implementation
+
+#### Open Source Contributions
+
+- **[Astar Portal](https://portal.astar.network)** — Astar Network's main portal application
+- **[TanStack/Router](https://github.com/TanStack/router/pull/5253)** — Documentation fix and [dependency issue fix](https://github.com/TanStack/router/pull/5138)
+- **[cadamsdev/image-optimizer-action](https://github.com/cadamsdev/image-optimizer-action/pull/27)** — Per-format quality settings for JPEG, WebP, and AVIF
+- **[code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent/pull/377)** — Documentation discovery workflow for librarian agent
 
 ---
 

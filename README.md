@@ -2,7 +2,7 @@
 
 Full Stack Engineer shipping across the entire stack — smart contracts, backend APIs, frontend apps, blockchain indexers, and cloud infrastructure.
 
-Currently at **[Startale Group](https://github.com/StartaleLabs)** building cross-chain infrastructure for [Astar Network](https://github.com/AstarNetwork) and [Soneium](https://github.com/Soneium).
+Currently at **[Startale](https://startale.com)** building [Astar Network](https://astar.network), [Soneium](https://soneium.org), and [Strium](https://strium.org).
 
 #### What I work with
 
@@ -19,6 +19,7 @@ Currently at **[Startale Group](https://github.com/StartaleLabs)** building cros
 - Implemented first **ERC-7802 + Chainlink CCIP** cross-chain bridge — passed Cyfrin security audit
 - Deployed bridge contracts handling **millions in TVL** with zero security incidents
 - Distributed SBT to **427K+ addresses** with 60% gas reduction via batch minting
+- Built **[Startale App](https://app.startale.com/create-account-by-invitation?code=VCKJSO65)** — Soneium's Superapp with Account Abstraction, [Uniswap V4](https://app.uniswap.org/), [Kyo Finance](https://kyo.finance), and [USDSC](https://startale.com/en/blog/startale-usd)
 - Built **quant trading platform** end-to-end: execution engine, analytics, infrastructure
 
 #### Open Source

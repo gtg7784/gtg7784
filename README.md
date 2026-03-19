@@ -38,6 +38,11 @@ Currently at **[Startale](https://startale.com)** building [Astar Network](https
 - **[cadamsdev/image-optimizer-action](https://github.com/cadamsdev/image-optimizer-action/pull/27)** — Per-format quality settings for JPEG, WebP, and AVIF
 - **[code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent/pull/377)** — Documentation discovery workflow for librarian agent
 - **[gtg7784/howcryptoworksbook-kr](https://github.com/gtg7784/howcryptoworksbook-kr)** - A Korean translation of the [How Crypto Actually Works: The Missing Manual](https://github.com/lawmaster10/howcryptoworksbook)
+- **[junhoyeo/tokscale](https://github.com/junhoyeo/tokscale/pull/37)** - Fix navigation bar display on mobile devices
+- **[subsquid/docs](https://github.com/subsquid/docs/pull/437)** - Remove Astar zkEVM and Astar zKyoto from Subsquid Docs
+- **[MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension/pull/31138)** - Update soneium logo and testnet name
+- **[LedgerHQ/app-ethereum](https://github.com/LedgerHQ/app-ethereum/pull/714)** - Add Soneium Mainnet and Soneium Testnet Minato
+- **[LedgerHQ/embedded-application-tools](https://github.com/LedgerHQ/embedded-application-tools/pull/4)** - replace convert to magick convert
 
 ---
 

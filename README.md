@@ -37,7 +37,7 @@ Currently at **[Startale](https://startale.com)** building [Astar Network](https
 - **[TanStack/Router](https://github.com/TanStack/router)** — [Documentation fix](https://github.com/TanStack/router/pull/5253) and [dependency issue fix](https://github.com/TanStack/router/pull/5138)
 - **[cadamsdev/image-optimizer-action](https://github.com/cadamsdev/image-optimizer-action/pull/27)** — Per-format quality settings for JPEG, WebP, and AVIF
 - **[code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent/pull/377)** — Documentation discovery workflow for librarian agent
-- **[gtg7784/howcryptoworksbook-kr](https://github.com/gtg7784/howcryptoworksbook-kr)** - A Korean translation of the [howcryptoworksbook](https://github.com/lawmaster10/howcryptoworksbook)
+- **[gtg7784/howcryptoworksbook-kr](https://github.com/gtg7784/howcryptoworksbook-kr)** - A Korean translation of the [How Crypto Actually Works: The Missing Manual](https://github.com/lawmaster10/howcryptoworksbook)
 
 ---
 

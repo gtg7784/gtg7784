@@ -30,7 +30,7 @@ Currently at **[Startale](https://startale.com)** building [Astar Network](https
 - **[solana-kms-signer](https://github.com/gtg7784/solana-kms-signer)** — AWS KMS Solana signer (ED25519)
 - **[chainlink-ccip-erc7802](https://github.com/AstarNetwork/chainlink-ccip-erc7802)** — ERC-7802 + Chainlink CCIP reference implementation
 - **[arc-devtools-mcp](https://github.com/gtg7784/arc-devtools-mcp)** - The DevTool MCP for Arc (The Browser Company) using Apple Script and Typescript
-
+- **[bot-solana-wallet-tracker](https://github.com/gtg7784/bot-solana-wallet-tracker)** - A recursive transaction history crawler for Solana blockchain that builds hierarchical transfer trees using Solscan API and web scraping.
 #### Open Source Contributions
 
 - **[Astar Portal](https://portal.astar.network)** — Astar Network's main portal application

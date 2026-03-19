@@ -33,7 +33,7 @@ Currently at **[Startale](https://startale.com)** building [Astar Network](https
 #### Open Source Contributions
 
 - **[Astar Portal](https://portal.astar.network)** — Astar Network's main portal application
-- **[TanStack/Router](https://github.com/TanStack/router/pull/5253)** — Documentation fix and [dependency issue fix](https://github.com/TanStack/router/pull/5138)
+- **[TanStack/Router]((https://github.com/TanStack/router))** — [Documentation fix]((https://github.com/TanStack/router/pull/5253)) and [dependency issue fix](https://github.com/TanStack/router/pull/5138)
 - **[cadamsdev/image-optimizer-action](https://github.com/cadamsdev/image-optimizer-action/pull/27)** — Per-format quality settings for JPEG, WebP, and AVIF
 - **[code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent/pull/377)** — Documentation discovery workflow for librarian agent
 

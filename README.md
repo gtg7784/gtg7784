@@ -19,7 +19,7 @@ Currently at **[Startale](https://startale.com)** building [Astar Network](https
 - Implemented first **ERC-7802 + Chainlink CCIP** cross-chain bridge — passed Cyfrin security audit
 - Deployed bridge contracts handling **millions in TVL** with zero security incidents
 - Distributed SBT to **427K+ addresses** with 60% gas reduction via batch minting
-- Built **[Startale App](https://app.startale.com/create-account-by-invitation?code=VCKJSO65)** — Soneium's Superapp with Account Abstraction, [Uniswap V4](https://app.uniswap.org/), [Kyo Finance](https://kyo.finance), and [USDSC](https://startale.com/en/blog/startale-usd)
+- Built **[Startale App (Click the link and use it!)](https://app.startale.com/create-account-by-invitation?code=VCKJSO65)** — Soneium's Superapp with Account Abstraction, [Uniswap V4](https://app.uniswap.org/), [Kyo Finance](https://kyo.finance), and [USDSC](https://startale.com/en/blog/startale-usd)
 - Built **[Soneium Score](https://portal.soneium.org)** — Score campaign for Soneium ecosystem with DeFi TVL indexing
 - Built **quant trading platform** end-to-end: execution engine, analytics, infrastructure
 

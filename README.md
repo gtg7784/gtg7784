@@ -16,7 +16,7 @@ Currently at **[Startale](https://startale.com)** building [Astar Network](https
 
 #### Highlights
 
-- Implemented first **ERC-7802 + Chainlink CCIP** cross-chain bridge — passed Cyfrin security audit
+- Implemented first **[ERC-7802 + Chainlink CCIP](github.com/astarnetwork/chainlink-ccip-erc7802)** cross-chain bridge — passed Cyfrin security audit
 - Deployed bridge contracts handling **millions in TVL** with zero security incidents
 - Distributed SBT to **427K+ addresses** with 60% gas reduction via batch minting
 - Built **[Startale App (Click the link and use it!)](https://app.startale.com/create-account-by-invitation?code=VCKJSO65)** — Soneium's Superapp with Account Abstraction, [Uniswap V4](https://app.uniswap.org/), [Kyo Finance](https://kyo.finance), and [USDSC](https://startale.com/en/blog/startale-usd)
@@ -31,6 +31,8 @@ Currently at **[Startale](https://startale.com)** building [Astar Network](https
 - **[chainlink-ccip-erc7802](https://github.com/AstarNetwork/chainlink-ccip-erc7802)** — ERC-7802 + Chainlink CCIP reference implementation
 - **[arc-devtools-mcp](https://github.com/gtg7784/arc-devtools-mcp)** - The DevTool MCP for Arc (The Browser Company) using Apple Script and Typescript
 - **[bot-solana-wallet-tracker](https://github.com/gtg7784/bot-solana-wallet-tracker)** - A recursive transaction history crawler for Solana blockchain that builds hierarchical transfer trees using Solscan API and web scraping.
+- **[oh-my-renesas](https://github.com/gtg7784/oh-my-renesas)** - OpenCode plugin for Renesas RA MCU development — 4 AI agents, 17 tools for FSP, FreeRTOS, J-Link, and more.
+
 #### Open Source Contributions
 
 - **[Astar Portal](https://portal.astar.network)** — Astar Network's main portal application
